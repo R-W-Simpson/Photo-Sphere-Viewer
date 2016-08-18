@@ -60,3 +60,6 @@ If your panorama is taken with Google's Photo Sphere, `usexmpdata` must be set t
 ## License
 
 This library is available under the MIT license.
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/PhotoSphere-Viewer)
+
